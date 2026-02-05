@@ -1,7 +1,7 @@
 {
   "latestVersionCode": 23,
   "latestVersionName": "1.10.1",
-  "apkUrl": "https://peaceful-tapioca-db9598.netlify.app/app-release.apk",
+  "apkUrl": "https://github.com/MyRoN85/ZeitKontroll-Release/raw/refs/heads/main/app-release.apk",
   "changelog": {
     "hu": [
       "ÚJ: Alkalmazás megosztása funkció többnyelvű üzenettel.",
