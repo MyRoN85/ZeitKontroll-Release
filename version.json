@@ -1,0 +1,72 @@
+{
+  "latestVersionCode": 23,
+  "latestVersionName": "1.10.1",
+  "apkUrl": "https://peaceful-tapioca-db9598.netlify.app/app-release.apk",
+  "changelog": {
+    "hu": [
+      "ÚJ: Alkalmazás megosztása funkció többnyelvű üzenettel.",
+      "ÚJ: Frissített jogi dokumentáció (Impresszum, Adatvédelem, Felelősségkizárás).",
+      "ÚJ: Belépési feltétel: A jogi nyilatkozatok elfogadása kötelező.",
+      "ÚJ: Kétnyelvű (DE/HU) intelligens PDF lábléc minden oldalon.",
+      "ÚJ: 35 napos próbaidőszak szerveroldali védelme és licenckezelés.",
+      "FEJLESZTÉS: Két tizedesjegyes pontosság a Munka & Pótlékok statisztikáknál.",
+      "FEJLESZTÉS: Tisztább PDF elrendezés és nyelvspecifikus tartalom.",
+      "FEJLESZTÉS: Egységesített súgó címek és javított fordítások minden nyelven.",
+      "FEJLESZTÉS: Tájékoztató a nyelvi beállítások PDF-re gyakorolt hatásáról.",
+      "JAVÍTVA: PDF generálási hiba (Type Mismatch) elhárítva.",
+      "JAVÍTVA: Automatikus szünet számításának korrekciója."
+    ],
+    "en": [
+      "NEW: Share App feature with multi-language messages.",
+      "NEW: Updated legal documentation (Imprint, Privacy, Disclaimer).",
+      "NEW: Entry requirement: Acceptance of legal terms is mandatory.",
+      "NEW: Bilingual (DE/EN) intelligent PDF footer on every page.",
+      "NEW: Server-side protection for 35-day trial and license management.",
+      "IMPROVEMENT: Two-decimal precision for Work & Surcharges statistics.",
+      "IMPROVEMENT: Cleaner PDF layout and language-specific content.",
+      "IMPROVEMENT: Unified help titles and improved translations in all languages.",
+      "IMPROVEMENT: Info about language settings affecting PDF generation.",
+      "FIXED: PDF generation error (Type Mismatch) resolved.",
+      "FIXED: Automatic break calculation correction."
+    ],
+    "de": [
+      "NEU: App-Teilen-Funktion mit mehrsprachigen Nachrichten.",
+      "NEU: Aktualisierte rechtliche Dokumentation (Impressum, Datenschutz, Disclaimer).",
+      "NEU: Zugangsvoraussetzung: Annahme der rechtlichen Bedingungen ist obligatorisch.",
+      "NEU: Zweisprachige (DE/...) intelligente PDF-Fußzeile auf jeder Seite.",
+      "NEU: Serverseitiger Schutz für den 35-tägigen Testzeitraum und Lizenzverwaltung.",
+      "VERBESSERUNG: Zwei-Dezimalstellen-Präzision für die Statistik 'Arbeit & Zuschläge'.",
+      "VERBESSERUNG: Saubereres PDF-Layout und sprachspezifische Inhalte.",
+      "VERBESSERUNG: Vereinheitlichte Hilfe-Titel und verbesserte Übersetzungen.",
+      "VERBESSERUNG: Info über Auswirkungen der Spracheinstellungen auf das PDF.",
+      "BEHOBEN: PDF-Generierungsfehler (Type Mismatch) gelöst.",
+      "BEHOBEN: Korrektur der automatischen Pausenberechnung."
+    ],
+    "pl": [
+      "NOWOŚĆ: Funkcja udostępniania aplikacji z wielojęzycznymi wiadomościami.",
+      "NOWOŚĆ: Zaktualizowana dokumentacja prawna (Nota prawna, Prywatność, Disclaimer).",
+      "NOWOŚĆ: Warunek wejścia: Akceptacja warunków prawnych jest obowiązkowa.",
+      "NOWOŚĆ: Dwujęzyczna (DE/PL) inteligentna stopka PDF na każdej stronie.",
+      "NOWOŚĆ: Serwerowa ochrona 35-dniowego okresu próbnego i zarządzanie licencjami.",
+      "ULEPSZENIE: Dokładność do dwóch miejsc po przecinku w statystykach pracy.",
+      "ULEPSZENIE: Czystszy układ PDF i treści specyficzne dla języka.",
+      "ULEPSZENIE: Ujednolicone tytuły pomocy i poprawione tłumaczenia.",
+      "ULEPSZENIE: Informacja o wpływie ustawień językowych na generowanie PDF.",
+      "POPRAWIONO: Błąd generowania PDF (Type Mismatch) naprawiony.",
+      "POPRAWIONO: Korekta automatycznego obliczania przerw."
+    ],
+    "ro": [
+      "NOU: Funcția de partajare a aplicației cu mesaje multilingve.",
+      "NOU: Documentație legală actualizată (Amprentă, Confidențialitate, Disclaimer).",
+      "NOU: Condiție de intrare: Acceptarea termenilor legali este obligatorie.",
+      "NOU: Subsol PDF inteligent bilingv (DE/RO) pe fiecare pagină.",
+      "NOU: Protecție pe server pentru perioada de probă și gestionarea licențelor.",
+      "ÎMBUNĂTĂȚIRE: Precizie de două zecimale pentru statisticile de muncă.",
+      "ÎMBUNĂTĂȚIRE: Aspect PDF mai curat și conținut specific limbii.",
+      "ÎMBUNĂTĂȚIRE: Titluri de ajutor unificate și traduceri îmbunătățite.",
+      "ÎMBUNĂTĂȚIRE: Informații despre setările de limbă care afectează PDF-ul.",
+      "CORECTAT: Eroare de generare PDF (Type Mismatch) remediată.",
+      "CORECTAT: Corectarea calculului automat al pauzelor."
+    ]
+  }
+}
