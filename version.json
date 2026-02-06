@@ -1,9 +1,10 @@
 {
-  "latestVersionCode": 25,
-  "latestVersionName": "1.11.3",
-  "apkUrl": "https://drive.google.com/uc?export=download&id=1IDqRefLG4YHRxxRJnhlwYXZHLr0ngRcn",
+  "latestVersionCode": 26,
+  "latestVersionName": "1.11.4",
+  "apkUrl": "https://github.com/MyRoN85/ZeitKontroll-Release/raw/main/app-release.apk",
   "changelog": {
     "hu": [
+      "ÚJ: Fejlesztés alatt a mentés további gondolása és optimalizálása.",
       "ÚJ: Alkalmazás megosztása funkció többnyelvű üzenettel.",
       "ÚJ: Frissített jogi dokumentáció (Impresszum, Adatvédelem, Felelősségkizárás).",
       "ÚJ: Belépési feltétel: A jogi nyilatkozatok elfogadása kötelező.",
@@ -17,6 +18,7 @@
       "JAVÍTVA: Automatikus szünet számításának korrekciója."
     ],
     "en": [
+      "NEW: Further development and rethinking of the saving process.",
       "NEW: Share App feature with multi-language messages.",
       "NEW: Updated legal documentation (Imprint, Privacy, Disclaimer).",
       "NEW: Entry requirement: Acceptance of legal terms is mandatory.",
@@ -30,10 +32,11 @@
       "FIXED: Automatic break calculation correction."
     ],
     "de": [
+      "NEU: Weiterentwicklung und Überarbeitung des Speichervorgangs.",
       "NEU: App-Teilen-Funktion mit mehrsprachigen Nachrichten.",
       "NEU: Aktualisierte rechtliche Dokumentation (Impressum, Datenschutz, Disclaimer).",
       "NEU: Zugangsvoraussetzung: Annahme der rechtlichen Bedingungen ist obligatorisch.",
-      "NEU: Zweisprachige (DE/...) intelligente PDF-Fußzeile auf jeder Seite.",
+      "NEU: Zweisprachige (DE/DE) intelligente PDF-Fußzeile auf jeder Seite.",
       "NEU: Serverseitiger Schutz für den 35-tägigen Testzeitraum und Lizenzverwaltung.",
       "VERBESSERUNG: Zwei-Dezimalstellen-Präzision für die Statistik 'Arbeit & Zuschläge'.",
       "VERBESSERUNG: Saubereres PDF-Layout und sprachspezifische Inhalte.",
@@ -43,6 +46,7 @@
       "BEHOBEN: Korrektur der automatischen Pausenberechnung."
     ],
     "pl": [
+      "NOWOŚĆ: Dalszy rozwój i optymalizacja procesu zapisywania.",
       "NOWOŚĆ: Funkcja udostępniania aplikacji z wielojęzycznymi wiadomościami.",
       "NOWOŚĆ: Zaktualizowana dokumentacja prawna (Nota prawna, Prywatność, Disclaimer).",
       "NOWOŚĆ: Warunek wejścia: Akceptacja warunków prawnych jest obowiązkowa.",
@@ -56,6 +60,7 @@
       "POPRAWIONO: Korekta automatycznego obliczania przerw."
     ],
     "ro": [
+      "NOU: Dezvoltarea ulterioară și optimizarea procesului de salvare.",
       "NOU: Funcția de partajare a aplicației cu mesaje multilingve.",
       "NOU: Documentație legală actualizată (Amprentă, Confidențialitate, Disclaimer).",
       "NOU: Condiție de intrare: Acceptarea termenilor legali este obligatorie.",
