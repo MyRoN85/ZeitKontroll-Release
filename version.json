@@ -4,6 +4,7 @@
   "apkUrl": "https://github.com/MyRoN85/ZeitKontroll-Release/raw/main/app-release.apk",
   "changelog": {
     "hu": [
+      "ÚJ: Prémium funkciók vizuális jelölése (lakat és homályosítás) a Beállításoknál és az Előleg mezőnél.",
       "ÚJ: Fejlesztés alatt a mentés további gondolása és optimalizálása.",
       "ÚJ: Alkalmazás megosztása funkció többnyelvű üzenettel.",
       "ÚJ: Frissített jogi dokumentáció (Impresszum, Adatvédelem, Felelősségkizárás).",
@@ -14,10 +15,12 @@
       "FEJLESZTÉS: Tisztább PDF elrendezés és nyelvspecifikus tartalom.",
       "FEJLESZTÉS: Egységesített súgó címek és javított fordítások minden nyelven.",
       "FEJLESZTÉS: Tájékoztató a nyelvi beállítások PDF-re gyakorolt hatásáról.",
+      "JAVÍTVA: Frissítés és automatikus letöltési folyamat stabilizálása.",
       "JAVÍTVA: PDF generálási hiba (Type Mismatch) elhárítva.",
       "JAVÍTVA: Automatikus szünet számításának korrekciója."
     ],
     "en": [
+      "NEW: Visual locking of premium features (lock icon and blur) in Settings and Advance Payment field.",
       "NEW: Further development and rethinking of the saving process.",
       "NEW: Share App feature with multi-language messages.",
       "NEW: Updated legal documentation (Imprint, Privacy, Disclaimer).",
@@ -28,24 +31,28 @@
       "IMPROVEMENT: Cleaner PDF layout and language-specific content.",
       "IMPROVEMENT: Unified help titles and improved translations in all languages.",
       "IMPROVEMENT: Info about language settings affecting PDF generation.",
+      "FIXED: Update and automatic download process stabilization.",
       "FIXED: PDF generation error (Type Mismatch) resolved.",
       "FIXED: Automatic break calculation correction."
     ],
     "de": [
+      "NEU: Visuelle Kennzeichnung von Premium-Funktionen (Schloss und Unschärfe) in den Einstellungen und im Vorschuss-Feld.",
       "NEU: Weiterentwicklung und Überarbeitung des Speichervorgangs.",
       "NEU: App-Teilen-Funktion mit mehrsprachigen Nachrichten.",
       "NEU: Aktualisierte rechtliche Dokumentation (Impressum, Datenschutz, Disclaimer).",
       "NEU: Zugangsvoraussetzung: Annahme der rechtlichen Bedingungen ist obligatorisch.",
-      "NEU: Zweisprachige (DE/DE) intelligente PDF-Fußzeile auf jeder Seite.",
+      "NEU: Zweisprachige (DE/HU) intelligente PDF-Fußzeile auf jeder Seite.",
       "NEU: Serverseitiger Schutz für den 35-tägigen Testzeitraum und Lizenzverwaltung.",
       "VERBESSERUNG: Zwei-Dezimalstellen-Präzision für die Statistik 'Arbeit & Zuschläge'.",
       "VERBESSERUNG: Saubereres PDF-Layout und sprachspezifische Inhalte.",
       "VERBESSERUNG: Vereinheitlichte Hilfe-Titel und verbesserte Übersetzungen.",
       "VERBESSERUNG: Info über Auswirkungen der Spracheinstellungen auf das PDF.",
+      "BEHOBEN: Stabilisierung des Update- und automatischen Download-Prozesses.",
       "BEHOBEN: PDF-Generierungsfehler (Type Mismatch) gelöst.",
       "BEHOBEN: Korrektur der automatischen Pausenberechnung."
     ],
     "pl": [
+      "NOWOŚĆ: Wizualne oznaczenie funkcji premium (kłódka i rozmycie) w Ustawieniach i polu Zaliczki.",
       "NOWOŚĆ: Dalszy rozwój i optymalizacja procesu zapisywania.",
       "NOWOŚĆ: Funkcja udostępniania aplikacji z wielojęzycznymi wiadomościami.",
       "NOWOŚĆ: Zaktualizowana dokumentacja prawna (Nota prawna, Prywatność, Disclaimer).",
@@ -56,10 +63,12 @@
       "ULEPSZENIE: Czystszy układ PDF i treści specyficzne dla języka.",
       "ULEPSZENIE: Ujednolicone tytuły pomocy i poprawione tłumaczenia.",
       "ULEPSZENIE: Informacja o wpływie ustawień językowych na generowanie PDF.",
+      "POPRAWIONO: Stabilizacja procesu aktualizacji i automatycznego pobierania.",
       "POPRAWIONO: Błąd generowania PDF (Type Mismatch) naprawiony.",
       "POPRAWIONO: Korekta automatycznego obliczania przerw."
     ],
     "ro": [
+      "NOU: Marcarea vizuală a funcțiilor premium (lăcat și estompare) în Setări și în câmpul Avans.",
       "NOU: Dezvoltarea ulterioară și optimizarea procesului de salvare.",
       "NOU: Funcția de partajare a aplicației cu mesaje multilingve.",
       "NOU: Documentație legală actualizată (Amprentă, Confidențialitate, Disclaimer).",
@@ -70,6 +79,7 @@
       "ÎMBUNĂTĂȚIRE: Aspect PDF mai curat și conținut specific limbii.",
       "ÎMBUNĂTĂȚIRE: Titluri de ajutor unificate și traduceri îmbunătățite.",
       "ÎMBUNĂTĂȚIRE: Informații despre setările de limbă care afectează PDF-ul.",
+      "CORECTAT: Stabilizarea procesului de actualizare și descărcare automată.",
       "CORECTAT: Eroare de generare PDF (Type Mismatch) remediată.",
       "CORECTAT: Corectarea calculului automat al pauzelor."
     ]
