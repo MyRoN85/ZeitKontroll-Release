@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 27,
-  "latestVersionName": "1.11.5",
+  "latestVersionCode": 28,
+  "latestVersionName": "1.11.6",
   "apkUrl": "https://github.com/MyRoN85/ZeitKontroll-Release/raw/main/app-release.apk",
   "changelog": {
     "hu": [
@@ -11,6 +11,7 @@
       "ÚJ: Belépési feltétel: A jogi nyilatkozatok elfogadása kötelező.",
       "ÚJ: Kétnyelvű (DE/HU) intelligens PDF lábléc minden oldalon.",
       "ÚJ: 35 napos próbaidőszak szerveroldali védelme és licenckezelés.",
+      "FEJLESZTÉS: Súgó bővítése (lakhatási és bérlevonási információkkal).",
       "FEJLESZTÉS: Két tizedesjegyes pontosság a Munka & Pótlékok statisztikáknál.",
       "FEJLESZTÉS: Tisztább PDF elrendezés és nyelvspecifikus tartalom.",
       "FEJLESZTÉS: Egységesített súgó címek és javított fordítások minden nyelven.",
@@ -27,6 +28,7 @@
       "NEW: Entry requirement: Acceptance of legal terms is mandatory.",
       "NEW: Bilingual (DE/EN) intelligent PDF footer on every page.",
       "NEW: Server-side protection for 35-day trial and license management.",
+      "IMPROVEMENT: Expanded Help section (housing and wage deduction info).",
       "IMPROVEMENT: Two-decimal precision for Work & Surcharges statistics.",
       "IMPROVEMENT: Cleaner PDF layout and language-specific content.",
       "IMPROVEMENT: Unified help titles and improved translations in all languages.",
@@ -43,6 +45,7 @@
       "NEU: Zugangsvoraussetzung: Annahme der rechtlichen Bedingungen ist obligatorisch.",
       "NEU: Zweisprachige (DE/HU) intelligente PDF-Fußzeile auf jeder Seite.",
       "NEU: Serverseitiger Schutz für den 35-tägigen Testzeitraum und Lizenzverwaltung.",
+      "VERBESSERUNG: Erweiterung der Hilfe (Wohn- und Lohnabzugsinformationen).",
       "VERBESSERUNG: Zwei-Dezimalstellen-Präzision für die Statistik 'Arbeit & Zuschläge'.",
       "VERBESSERUNG: Saubereres PDF-Layout und sprachspezifische Inhalte.",
       "VERBESSERUNG: Vereinheitlichte Hilfe-Titel und verbesserte Übersetzungen.",
@@ -59,6 +62,7 @@
       "NOWOŚĆ: Warunek wejścia: Akceptacja warunków prawnych jest obowiązkowa.",
       "NOWOŚĆ: Dwujęzyczna (DE/PL) inteligentna stopka PDF na każdej stronie.",
       "NOWOŚĆ: Serwerowa ochrona 35-dniowego okresu próbnego i zarządzanie licencjami.",
+      "ULEPSZENIE: Rozbudowa Pomocy (informacje o mieszkaniu i potrąceniach płacowych).",
       "ULEPSZENIE: Dokładność do dwóch miejsc po przecinku w statystykach pracy.",
       "ULEPSZENIE: Czystszy układ PDF i treści specyficzne dla języka.",
       "ULEPSZENIE: Ujednolicone tytuły pomocy i poprawione tłumaczenia.",
@@ -75,6 +79,7 @@
       "NOU: Condiție de intrare: Acceptarea termenilor legali este obligatorie.",
       "NOU: Subsol PDF inteligent bilingv (DE/RO) pe fiecare pagină.",
       "NOU: Protecție pe server pentru perioada de probă și gestionarea licențelor.",
+      "ÎMBUNĂTĂȚIRE: Extinderea secțiunii Ajutor (informații despre locuință și rețineri salariale).",
       "ÎMBUNĂTĂȚIRE: Precizie de două zecimale pentru statisticile de muncă.",
       "ÎMBUNĂTĂȚIRE: Aspect PDF mai curat și conținut specific limbii.",
       "ÎMBUNĂTĂȚIRE: Titluri de ajutor unificate și traduceri îmbunătățite.",
